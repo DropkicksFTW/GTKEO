@@ -1,8 +1,22 @@
-h1 {color:rgb(0, 0, 0); 
- text-align: center;
+h1 {color:rgb(27, 26, 46); 
+  text-align: center;
 } 
 
 img[src="me-800-by-800.jpg"] {
+  display: block;
+  margin: 0 auto;
+  border: 3px solid #eb4d22;
+  border-radius: 8px;
+}
+
+img[src="me-300-by-300.jpg"] {
+  display: block;
+  margin: 0 auto;
+  border: 3px solid #eb4d22;
+  border-radius: 8px;
+}
+
+img[src="momo-300-by-300.jpg"] {
   display: block;
   margin: 0 auto;
   border: 3px solid #eb4d22;
